@@ -1,3 +1,3 @@
-<a hrf:"https://sunaramwebdev.github.io/project-1-responsive/">Code is Live</a>
+<a href="https://sunaramwebdev.github.io/project-1-responsive/"> Project Preview</a>
 
 # project-1-responsive
