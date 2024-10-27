@@ -1,4 +1,4 @@
-# project-1-responsive
+# Shop-Jacket-Responsive
 
 
 <img src="ResponsiveGIF.gif" alt="">
